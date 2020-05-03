@@ -1,30 +1,36 @@
 body {
-  font-family: 'Cabin', sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
+
 header {
-    background-image: url("../img/header1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: left;
-    padding-bottom: 10rem;
-  }
-  .background_section2 {
-    background-color: #00bcd4;
-    
-  }
-  .background_section3 {
-    background-color: #b2ebf2;
-  }
-  .background_section4 {
-    background-color: #ff5722;
-  }
-  .background_section5{
-    background-color: #dd2c00;
-  }
-  .background_section6 {
-    background-color: #511845;
-  }
-  .logo {
-    font-family: 'Lobster', cursive;
-    font-weight: 400;
-  }
+	background-image: url("../img/header1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	padding-bottom: 10rem;
+}
+
+.background_section2 {
+	background-color: #00bcd4;
+}
+
+.background_section3 {
+	background-color: #b2ebf2;
+}
+
+.background_section4 {
+	background-color: #ff5722;
+}
+
+.background_section5 {
+	background-color: #dd2c00;
+}
+
+.background_section6 {
+	background-color: #511845;
+}
+
+.logo {
+	font-family: 'Lobster', cursive;
+	font-weight: 400;
+}
