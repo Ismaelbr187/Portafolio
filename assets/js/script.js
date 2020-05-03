@@ -11,7 +11,7 @@ $(function(){
           window.location.hash = gato;
         });
        
-        }
-      });
-      $('[data-toggle="popover"]').popover()
+      }
     });
+    $('[data-toggle="popover"]').popover()
+});
