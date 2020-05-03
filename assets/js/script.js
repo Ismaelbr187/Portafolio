@@ -4,7 +4,7 @@ $(function(){
         event.preventDefault();
   
         var gato = this.hash;
-        alert(gato);
+       
         $("html, body").animate({
           scrollTop: $(gato).offset().top
         }, 800, function(){
